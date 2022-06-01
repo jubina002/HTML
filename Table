@@ -1,0 +1,64 @@
+<table cellspacing=0 border=1 width=200px>
+<tr>
+<td>A</td>
+<td colspan =2>B</td>
+<td>C</td>
+<td>D</td>
+</tr>
+<tr>
+<td colspan =4 rowspan = 2 valign =top>E</td>
+<td>F</td>
+</tr>
+<tr>
+<td>G</td>
+</tr>
+<tr>
+<td colspan =2>H</td>
+<td colspan =2>J</td>
+<td>K</td>
+</tr>
+<tr>
+<td colspan=3>L</td>
+<td colspan=2>M</td>
+</tr>
+</table>
+
+
+<table cellspacing= 0 border= 1 width= 40%>
+<tr>
+<td>Logo (image)</td>
+<td colspan=2>ABC Company</td>
+</tr>
+<tr>
+<td>
+<table cellspacing= 0 border= 1>
+<tr>
+<td align= center>Home (link)</td>
+</tr>
+<tr>
+<td align= center>About us (link)</td>
+</tr>
+<tr>
+<td align= center>Contact us(link)</td>
+</tr>
+</table>
+</td>
+<td colspan=2 valign= center>
+<table cellspacing=0 border= 1 align= center>
+<tr align= center>
+<td>Content 1</td>
+<td>News 1</td>
+</tr>
+<tr align= center>
+<td>Content 2</td>
+<td>News 2</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Copyright</td>
+<td>Facebook,Twitter (link)</td>
+<td>Powered by</td>
+</tr>
+</table>
